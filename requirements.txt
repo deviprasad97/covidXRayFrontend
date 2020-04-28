@@ -1,8 +1,9 @@
-numpy
-torchvision
-fastai
-starlette
+numpy==1.15.4
+torchvision==0.2.1
+https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
+fastai==1.0.51
+starlette==0.11.4
 uvicorn==0.3.32
 python-multipart
-aiofiles
-aiohttp
+aiofiles==0.4.0
+aiohttp==3.5.4
