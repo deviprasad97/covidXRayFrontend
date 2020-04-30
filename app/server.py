@@ -8,7 +8,6 @@ from io import BytesIO
 from PIL import Image
 
 from tensorflow.keras.models import load_model
-import cv2
 import numpy as np
 import pathlib
 
